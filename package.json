@@ -1,0 +1,23 @@
+{
+  "name": "chabot",
+  "version": "1.0.0",
+  "description": "This bot is designed to give cloud infrastrucure info on the fly",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "PORT=3000 node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GitBlockGit/Chabot.git"
+  },
+  "author": "Abhishek Thepra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GitBlockGit/Chabot/issues"
+  },
+  "homepage": "https://github.com/GitBlockGit/Chabot#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
